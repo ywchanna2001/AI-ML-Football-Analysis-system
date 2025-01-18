@@ -4,7 +4,7 @@
 
 Welcome to the AI-ML Football Analysis System! This project leverages cutting-edge computer vision and deep learning techniques to analyze football matches, detect objects, and track player performance.
 
-![Project Preview](media/project_banner.gif) <!-- Add a gif or static image -->
+![Project Preview](Media/input.png) <!-- Add a gif or static image -->
 
 ---
 
@@ -29,10 +29,10 @@ Welcome to the AI-ML Football Analysis System! This project leverages cutting-ed
 
 ## 🖼 **Media**
 ### Input Video
-[![Input Video Thumbnail](media/input_video_thumb.png)](media/input_video.mp4) <!-- Replace with the link to your input video -->
+[![Input Video Thumbnail](Media/input.png)](input_videos/08fd33_4.mp4) <!-- Replace with the link to your input video -->
 
 ### Output Video
-[![Output Video Thumbnail](media/output_video_thumb.png)](media/output_video.mp4) <!-- Replace with the link to your output video -->
+[![Output Video Thumbnail](Media/output.png)](media/output_video.mp4) <!-- Replace with the link to your output video -->
 
 ---
 
